@@ -6,6 +6,6 @@ I allow developers to add their own functionality to the application. open sourc
 
 Instructions for using the program:
 
-STEP 1: Install python from the official site: https://www.python.org/
-STEP 2: Install Visual Studio Code the offiicial site: https://code.visualstudio.com/
-STEP 3: Run the code.
+# STEP 1: Install python from the official site: https://www.python.org/
+# STEP 2: Install Visual Studio Code the offiicial site: https://code.visualstudio.com/
+# STEP 3: Run the code.
